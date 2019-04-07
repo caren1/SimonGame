@@ -1,6 +1,8 @@
 # SimonGame
 It is the most serious project that I have made so far, combining three main components of HTML, CSS and JS. Will you give it a try? 🛢🤞
 
+https://caren1.github.io/SimonGame/
+
   - Simple HTML file, containing only divs and buttons
   - Styling for class additions and elements
   - JS using event listeners, method callbacks and dependency
